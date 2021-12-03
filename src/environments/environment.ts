@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   clientID: "ffd2d63a33624db185e5b70e8eca1a84",
   clientSecret: "870f7d65c0a5438fb464834b0b0f9455",
-  userAPIBase: "https://assignment6-api-web422.herokuapp.com/"
+  userAPIBase: "https://assignment6-api-web422.herokuapp.com/api/user"
 };
 
 /*
