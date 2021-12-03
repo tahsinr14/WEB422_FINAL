@@ -8,7 +8,7 @@
 *
 * Angular App (Deployed) Link: _____________________________________________________
 *
-* User API (Heroku) Link: __https://assignment6-api-web422.herokuapp.com/_____
+* User API (Heroku) Link: https://assignment6-api-web422.herokuapp.com/
 *
 ********************************************************************************/
 
