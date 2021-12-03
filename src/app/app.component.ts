@@ -6,7 +6,7 @@
 * 
 * Name: __Tahsin Rahman__ Student ID: __165063199_ Date: _December 2, 2021__
 *
-* Angular App (Deployed) Link: _____________________________________________________
+* Angular App (Deployed) Link: https://peaceful-clarke-0ba14b.netlify.app/
 *
 * User API (Heroku) Link: https://assignment6-api-web422.herokuapp.com/
 *
